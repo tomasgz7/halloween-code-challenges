@@ -19,7 +19,7 @@ function changeLock(current, target) {
   return moves;
 }
 
-// 🧪 Pruebas rápidas
+// Pruebas rápidas
 
 console.log(changeLock('0022', '0044')); // -> 4
 console.log(changeLock('0000', '9999')); // -> 4 (sí, ¡solo 4!)
@@ -27,4 +27,4 @@ console.log(changeLock('1234', '5678')); // -> 16
 console.log(changeLock('0000', '0000')); // -> 0
 console.log(changeLock('1357', '2468')); // -> 4
 
-// Run esto con Node.js y vas a ver los resultados en tu terminal de confianza :)
+// Run esto con Node.js y vas a ver los resultados en tu terminal de confianza
