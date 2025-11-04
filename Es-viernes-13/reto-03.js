@@ -1,4 +1,4 @@
-// 🎃 Reto #3 - Es viernes 13 (halloween.dev)
+//  Reto #3 - Es viernes 13 (halloween.dev)
 // Michael Myers no falla: ataca cada vez que cae viernes 13
 // y siempre vuelve en Halloween (31 de octubre).
 // Te pasan un año y tenés que devolver todas esas fechas en formato 'YYYY-MM-DD'.
@@ -31,7 +31,7 @@ function myersCalendar(year) {
 }
 
 
-// 🧪 Pruebas rápidas
+//Pruebas rápidas
 
 console.log(myersCalendar(2025));
 console.log(myersCalendar(2026));

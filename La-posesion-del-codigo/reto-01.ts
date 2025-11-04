@@ -1,4 +1,4 @@
-// 🧠 Reto #1 de halloween.dev – "La posesión del código"
+//  Reto #1 de halloween.dev – "La posesión del código"
 // Objetivo: invertir cada palabra, pero sin romper los espacios ni reordenar nada.
 
 function translatePossessed(message: string): string {

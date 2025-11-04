@@ -7,7 +7,7 @@ function surviveRoulette(n, k) {
   return survivor;
 }
 
-// 🧪 Pruebas rápidas
+//  Pruebas rápidas
 console.log(surviveRoulette(4, 2));  // 0
 console.log(surviveRoulette(5, 3));  // 3
 console.log(surviveRoulette(5, 10)); // 3
