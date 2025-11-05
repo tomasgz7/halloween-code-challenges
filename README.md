@@ -10,7 +10,7 @@
 ![YouTube](https://img.shields.io/badge/YouTube-codenozhiend-red?logo=youtube)
 ![Código](https://img.shields.io/badge/100%25%20código%20real-No%20frameworks-success)
 
-Este repo acompaña la serie de YouTube donde resuelvo **todos los retos de Halloween.dev 2024** usando **JavaScript puro**, sin TypeScript, sin librerías, sin frameworks.  
+Este repo acompaña la serie de YouTube donde resuelvo **todos los retos de Halloween.dev 2025** usando **JavaScript puro**, sin TypeScript, sin librerías, sin frameworks.  
 Código escrito a mano, explicado al detalle y ejecutado con `node`.
 
 📌 Cada reto es un archivo `.js` con:  
